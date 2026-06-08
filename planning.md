@@ -29,9 +29,9 @@ There are thousands of college fresh grad that is currently navigating the trans
 | 5 | Reddit | Advice proffesional gave for a fresh grad in 2026  |docs/05_Reddit_Advice.txt |
 | 6 | Reddit | H1B Visa applicant POV entering job market in the US | docs/06_Reddit_H1BPOV.txt |
 | 7 | Reddit | Nurse POV entering a job market as fresh grad in 2026 | docs/07_Reddit_nursePOV.txt |
-| 8 | Reddit | Networking as a leverage to navigate the job market in the US | C:\Users\USER\OneDrive\Documents\CodePath\01_Project_RAG\docs\08_Reddit_Networking.txt |
-| 9 | Reddit | H1B landing a job in the US |C:\Users\USER\OneDrive\Documents\CodePath\01_Project_RAG\docs\09_Reddit_H1BLandscape.txt|
-| 10 |Reddit | Fresh grad open thread reddit experiencing diffculty getting a job | C:\Users\USER\OneDrive\Documents\CodePath\01_Project_RAG\docs\10_Reddit_TheGrind.txt |
+| 8 | Reddit | Networking as a leverage to navigate the job market in the US | docs/08_Reddit_Networking.txt |
+| 9 | Reddit | H1B landing a job in the US |docs/09_Reddit_H1BLandscape.txt|
+| 10 |Reddit | Fresh grad open thread reddit experiencing diffculty getting a job | docs/10_Reddit_TheGrind.txt |
 
 ---
 

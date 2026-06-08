@@ -1,0 +1,61 @@
+# Source: https://www.reddit.com/r/newgradnurse/comments/1rq3de1/
+# Topic: Cross-domain job search lessons — what new grad nurses learned that tech grads can apply
+
+CONTEXT:
+While this thread is about nursing, the underlying job search dynamics are
+strikingly similar to NYC tech: oversaturated entry-level market, employers
+asking for "experience" for entry roles, geographic concentration in expensive
+cities, and the gap between school and actual workplace expectations.
+
+CROSS-DOMAIN PARALLELS FOR TECH NEW GRADS:
+
+THE "EXPERIENCE REQUIRED FOR ENTRY-LEVEL" PARADOX
+Both nursing and tech now require unpaid clinical hours / unpaid open-source
+contributions / "personal projects" just to be considered for entry-level roles.
+The credential alone (BSN / CS degree) is necessary but no longer sufficient.
+
+GEOGRAPHIC ARBITRAGE
+New nursing grads who couldn't get hired in NYC/SF/Boston metro often found
+roles in mid-sized cities (Pittsburgh, Cleveland, Austin) within weeks. Same
+pattern in tech: NYC is the hardest market for new grads, but if you're flexible
+on geography, your timeline shortens dramatically.
+
+The "I HAVE to be in NYC" mindset is the single biggest blocker for many
+candidates. Even taking a role in Boston, Philadelphia, or DC for 1-2 years and
+then transferring internally to a NYC office is faster than spending 12+ months
+trying to break in directly.
+
+NETWORKING LESSON FROM NURSING:
+Nurses found that clinical preceptors and instructors had stronger networks
+than expected — they could often get students interviews at hospitals where
+those instructors had previously worked. Tech equivalent: TAs, professors,
+internship managers, hackathon judges. Many tech students don't realize their
+adjuncts are full-time engineers at top companies.
+
+THE "TAKE THE FIRST OFFER" DEBATE:
+Nurses debated whether to take any RN job (med-surg, rural facility, less ideal
+unit) just to get RN experience that opens doors later, vs. holding out for
+"dream first job." Consensus: take the first reasonable offer, get 1 year of
+experience, then move. The opportunity cost of unemployment is greater than the
+cost of an imperfect first job.
+
+This translates directly to tech: better to take a less-prestigious SWE/data
+role at a non-FAANG company and move in 12-18 months than to spend 6-12 months
+unemployed waiting for the ideal first role. Resume gaps are harder to explain
+than non-ideal first jobs.
+
+RESILIENCE FRAMING:
+One of the most upvoted comments in the nurse thread: "I applied to 200+ jobs
+over 4 months. I cried weekly. I took an ICU job 2 hours from where I wanted
+to live. 18 months later I'm at the hospital I always wanted, getting paid 30%
+more. The first job is not the destination — it's the entry point."
+
+This is the right framing for tech too. The first job is the entry point, not
+the destination. Don't optimize for prestige or geography — optimize for
+getting in.
+
+ONE PRACTICAL DIFFERENCE:
+Nursing has a fixed credentialing pathway (NCLEX, BSN, RN license). Tech does
+not. This is actually an advantage — you can prove value through projects,
+contributions, certifications (AWS, GCP, Snowflake), and bootcamps in ways
+nurses cannot. Use this flexibility instead of treating CS like a fixed pathway.

@@ -1,0 +1,81 @@
+# Source: https://www.reddit.com/r/NYCjobs/comments/1sbo3no/
+# Topic: NYC tech networking — what actually works to break in
+
+THE NYC NETWORKING REALITY:
+
+NYC is a relationship-based market. Unlike Bay Area where merit-based applications
+through company portals still work, NYC tech (especially fintech, adtech, media,
+and startups) runs on connections. Estimated 70-80% of NYC tech jobs are filled
+via internal referrals or warm intros before they're ever posted publicly.
+
+WHAT WORKS IN NYC SPECIFICALLY:
+
+1. IN-PERSON EVENTS
+NYC has the highest density of tech meetups in the US. Free events almost every
+weeknight. Show up. Bring business cards. Follow up within 48 hours.
+Best sources:
+- Meetup.com (filter by NYC + tech)
+- Eventbrite (NYC tech category)
+- Built In NYC events calendar
+- Company-hosted events (Datadog, Bloomberg, Stripe, Plaid all host regularly)
+- NY Tech Meetup (largest, monthly)
+- Various Slack/Discord communities (Tech in Color NYC, Out in Tech, etc.)
+
+2. COFFEE CHATS, NOT JOB ASKS
+Cold outreach asking "do you have any openings" gets ignored. Cold outreach
+asking "I'm a recent grad interested in [specific thing your team does], could
+I get 15 minutes of your time?" gets 30%+ response rates.
+
+3. ALUMNI NETWORKS ARE GOLD IN NYC
+Especially powerful: CUNY (Baruch, Hunter, City College), NYU, Columbia,
+Cornell Tech, Stevens. NYC tech employers actively recruit through these
+alumni pipelines. Reach out to alumni 2-5 years ahead of you, not 10+ years
+(too senior, less inclined to help).
+
+4. LINKEDIN IS PRIMARILY FOR NETWORKING, NOT APPLYING
+- Optimize headline (job title + key skills, not "Open to Work")
+- Engage on posts daily (comments outperform likes, posts outperform comments
+  but require more time)
+- Send personalized connection requests with a 200-character note
+- After accept, wait 1 week before asking for anything
+
+5. COMPANY-SPECIFIC PIPELINES MATTER
+Different NYC companies have very different hiring patterns:
+- Bloomberg: heavy campus recruiting, return interns get NYC offers, regular
+  new grads can also break in via referrals
+- Datadog: aggressively hires NYC new grads with no return-intern requirement
+- MongoDB: same as Datadog
+- Two Sigma / Citadel / HRT: pipeline almost entirely from elite schools, but
+  outsiders can crack via competitions (Kaggle, ICPC)
+- Goldman Sachs / JPMorgan / Morgan Stanley: large new-grad programs, apply
+  early, leverage finance recruiting timelines
+- Etsy / Squarespace / Peloton: smaller new-grad classes, harder to break in
+- Stripe / Ramp / Figma (NYC offices): tiny new-grad classes, almost entirely
+  via referral
+
+6. NYC-SPECIFIC SIGNALS RECRUITERS LOOK FOR
+- Local address on resume (even if you're not yet in NYC, use a friend's
+  address — many recruiters auto-filter non-local applicants for "in office"
+  roles)
+- LinkedIn location set to "New York City Metropolitan Area"
+- References to NYC-specific events, communities, or tools
+- Familiarity with NYC subway/commute realities (signals you'll actually take
+  the offer)
+
+7. COMMON FAILURE MODES
+- Mass applying via LinkedIn Easy Apply with West Coast address
+- Generic cold messages ("Hi! Saw your profile, would love to connect")
+- Asking for jobs before building any relationship
+- Ignoring smaller companies (Datadog, MongoDB, Plaid, Ramp, Brex, Cockroach
+  Labs, Knock all have great NYC offices and pay competitively)
+- Refusing to consider NJ-based tech roles (Jersey City has Goldman, JPMorgan
+  tech, several big startups — easy NYC commute)
+
+PRACTICAL ACTION PLAN FOR NYC TECH NETWORKING:
+- Week 1-2: Build LinkedIn list of 50 target alumni (your school or program)
+- Week 3-4: Send 10 connection requests per week with personalized notes
+- Week 5+: Convert accepted connections into 15-min coffee chats (virtual or
+  in person)
+- Ongoing: Attend 2 events per month, follow up with 1 person per event
+- Always: track outreach in spreadsheet (name, company, last contact date,
+  status, next action)

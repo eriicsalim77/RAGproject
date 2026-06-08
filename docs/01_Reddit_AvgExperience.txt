@@ -1,0 +1,47 @@
+# Source: https://www.reddit.com/r/NYCjobs/comments/1tj6a5a/average_experience_finding_a_job_as_a_new_grad/
+# Topic: Recent grad job search struggles in NYC tech/data roles
+
+ORIGINAL POST:
+Recent UT Austin BS Mathematics grad looking for jobs in NYC, primarily 
+Manhattan. Applied to 700+ positions since last August, reached out to 
+recruiters on LinkedIn and other platforms, leveraged connections. Had a 
+couple interviews but nothing landing. Feels like between AI and mass 
+applying, something critical is missing. Targeting data science/analyst 
+roles and UX/UI positions.
+
+COMMENT - doopeyset:
+Job market is toast for many people already in NYC. Your address not 
+being in NYC while many places are hybrid or in person is likely getting 
+you screened out early. The jobs you're applying to are the most at risk 
+and most laid off from AI. You're competing against data scientists and 
+UI folks with 5-10 years of experience for entry level roles. Folks who've 
+worked here for decades and have deep networks are struggling too, so it's 
+not personal.
+
+COMMENT - Unlucky_Kale340:
+In your case, apply to companies near your university to get experience, 
+and if the company has a department in New York, transfer. Otherwise if 
+you still want to move to New York, you may have to pivot to another career.
+
+COMMENT - shell_cordovan:
+Works in STEM. There's a shortage of jobs in many fields, but a surfeit 
+in a few: AI, cybersecurity, and medical. It's not like a decade ago when 
+employers were willing to train new hires — they want someone who can 
+immediately add value out the door. You will need to learn a specialized 
+skill set to make it here.
+
+COMMENT - Beautiful-Onion-4282:
+Recent grad from an Ivy living in NYC with BA in Financial Econ. Same 
+situation. No one is hiring. Feels like missing something critical.
+
+COMMENT - this_is_a_front:
+Data science/analyst and UX/UI are very different roles. Important to have 
+a design portfolio rather than just applying with a single resume for both.
+
+COMMENT - WhaleFartingFun:
+Best advice: apply for regular non-degree jobs that are adjacent to your 
+major. Not everyone lands jobs in what they studied. If you really want 
+to live in NYC, open your net wide.
+
+COMMENT - Mosslessrollingstone:
+Do you know anyone who can help you get an interview? (Networking matters.)

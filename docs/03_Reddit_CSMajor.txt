@@ -1,0 +1,113 @@
+3 reddit cs grad desperate nyc · TXT
+# Source: https://www.reddit.com/r/NYCjobs/comments/1o6ub3i/recent_cs_grad_desperate_for_a_nyc_tech_job/
+# Topic: Recent CS grad job search strategies and warnings for NYC tech market
+ 
+ORIGINAL POST (Trap-Pirate):
+Recent Computer Science graduate from California, desperate to find a software job
+in NYC (specifically NYC, not just anywhere). Acknowledging the market is awful right
+now, especially for fresh grads. Looking for tips on where to find entry-level job
+listings, how to maximize odds of success, how to network, and to hear from others
+who have been in the same position.
+ 
+COMMENT - s_ea:
+This plan sounds like a recipe for disaster. You'll be competing with senior level
+engineers, recent grads, and victims of layoffs for the few junior roles available.
+It's a numbers game right now — you need to apply for as many roles as possible.
+There's no secret to getting a job; the market is brutal, especially in NYC. Even
+folks with CS experience are spending 6 months+ job hunting, so also look at other
+work to pay bills: customer service, call center, restaurant, Uber, etc.
+ 
+COMMENT - Wink_21:
+Looking for a specific job AND an apartment in NYC at the same time is not ideal.
+Most people in events/experiential/popup work in NYC weren't even looking for that
+type of work — they just took any design job because they wanted to be in NYC.
+Advice: take any decent paying job ($40-$50k with roommates is doable) in any field
+JUST to get into NYC. Then plan and execute your goals from there.
+ 
+COMMENT - moment_in_the_sun_ (push-back on Wink_21):
+For CS, taking unrelated jobs is a further recipe for disaster. A poorly aligned
+resume is hard to justify to the next hiring manager. It's better to take a stronger
+role with more learning upside outside NYC than "any decent paying job" just to be
+in NYC.
+ 
+COMMENT - Italophobia:
+Projects don't really mean much in this economy, especially in NYC. Better off at
+an unpaid startup with something serious to show.
+ 
+COMMENT - apartmentthrowaway17:
+Bay Area is more merit-based with larger companies. NYC is more nepotism-based and
+requires connections — a larger portion of NYC roles are with startups financed
+through Wall Street (fewer open positions, smaller teams).
+ 
+COMMENT - Computer-Cowboy00 (NYC tech recruiter, push-back):
+It isn't all nepotism in NYC. I've been a tech recruiter here for years — people
+hire strangers all the time. Important question: what kind of company do you want
+to work at, or are you only focused on getting to New York?
+ 
+COMMENT - smokeeeee2:
+If you have marketable skills, get on Upwork or Fiverr and bid for contracts.
+Upwork is supersaturated like LinkedIn now, but hungry candidates with marketable
+skills can find something eventually. Contracts also work as ongoing education.
+ 
+COMMENT - Zayphonso (networking tactic):
+Most people don't use their LinkedIn resources. Research companies you find
+attractive and start by adding the execs on LinkedIn. If just one accepts, you have
+a foot in the door. Reach out via DMs and have a conversation. You never know which
+high-level exec you can just talk to until you try. Closed $5k-$10k freelance jobs
+this way. Express true interest in the company. Asking for a tour is usually your
+first red or green light.
+ 
+COMMENT - SamPom100 (AWS employee):
+Big tech is hiring but much slower. My org in AWS only has headcount for seniors.
+Small/mid-size startups are aggressively hiring — find them on sites like
+Crunchbase. Reach out to alumni, do coffee chats, ask for referrals. Email hiring
+managers or startup founders. Mass cold applying online should be the last resort.
+ 
+COMMENT - eyesonthefries609:
+Make friends in the startup scene. There are a lot of meetups. Also change your
+LinkedIn location to NYC.
+ 
+COMMENT - kev13nyc:
+It's all about networking — not what you know, but WHO you know. Recruiters are
+the way to go at this career stage. Build out your LinkedIn network. Sending out
+hundreds of resumes is like another full-time job. NY is an at-will employment
+state, meaning people can be let go at any time.
+ 
+COMMENT - bthvn_loves_zepp:
+The bar has been raised even for folks with multiple YoE. Good, experienced talent
+is getting RIF'd as companies adjust to economic trends and AI hype. Roles are
+requiring more YoE for the same job titles/levels that used to require less.
+Expectations and responsibilities are increasing while salaries are decreasing.
+This is NOT the city to look for a tech job in right now. Try smaller cities.
+ 
+COMMENT - Symboliclynk443 (point72 alumni, backdoor route):
+Get a systems admin / support job and do some automation. Then pivot within the
+company. Best way to get into hedge funds / HFT is the support backdoor. Broke into
+Point72 by doing exactly that.
+ 
+COMMENT - Human_Ad2018:
+Make sure you have a killer resume. Use career sites like Amex, Bloomberg, Netflix
+that allow resume upload and give job matches — see what you're matching with. Do
+something now even with little pay — many Y Combinator companies are looking for
+cheap part-time help. They will give you decent work and good references. NYC cares
+about where you went to university; if you have little experience and didn't go to
+a target school, it will be harder.
+ 
+COMMENT - themegainferno (on what hiring managers actually want):
+A CS degree alone is not enough. Need DSA/leetcode for software engineer roles, but
+also need to care enough to do more than just the degree — projects, contributions,
+real experience. Computer science is not software engineering. Many CS majors
+narrowly target SWE without understanding that distinction.
+ 
+COMMENT - moment_in_the_sun_ (on nonprofit / real-world experience):
+Working with a nonprofit on their app is exactly the type of experience to be
+getting right now. Independent projects matter less than real-world "someone telling
+you what to do for money" experience.
+ 
+COMMENT - Zachcrius (linking NYT podcast on tech job crisis):
+NYT Daily podcast: "Big Tech Told Kids to Code. The Jobs Didn't Follow." (Sept 2025)
+covers how AI is taking entry-level jobs. Even summa cum laude grads are struggling.
+One recent grad interviewed is considering a master's in architecture to combine
+with his CS BS. Diversifying away from pure programming into fields that require
+some programming knowledge but rely on other things is a viable path.
+ 

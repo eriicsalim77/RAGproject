@@ -1,0 +1,63 @@
+# Source: https://www.reddit.com/r/FresherTechJobsIndia/comments/1trtguz/
+# Topic: Fresher tech job advice — international student / H1B / OPT perspective
+
+ORIGINAL CONTEXT:
+Tier-3 college fresh grad from India, completed FAANG internship, took alternate
+career path that failed, returned to tech market 1-2 years later. Now treated as
+"non-fresh" by recruiters who only hire current-year batches. 50+ applications,
+constant rejections. Asking for referrals.
+
+KEY INSIGHTS FOR INTERNATIONAL CANDIDATES:
+
+THE "FRESHER WINDOW" PROBLEM
+Most tech recruiters in both India and US filter by graduation year. Someone who
+graduated in 2024 and didn't get hired immediately becomes "stale" in recruiter
+eyes by 2026. Companies prefer current-batch grads over 1-2 year-old grads with
+no professional experience.
+
+Workaround: pursue master's, do open-source contributions, or get any production
+experience (even unpaid OSS contributions to recognized projects) to reset the
+"experience" clock.
+
+H1B SPONSORSHIP REALITY IN 2026:
+- Wage-weighted lottery system (USCIS, Feb 27, 2026) prioritizes higher salary
+  levels. Level IV roles get ~61% selection rate vs ~15% for entry-level.
+- $100,000 supplemental fee for overseas hires (effective Sept 21, 2025) means
+  employers now strongly prefer F-1 students on OPT already in the US.
+- F-1 OPT candidates are exempt from the $100k fee through "change of status"
+  petitions — this is a major hiring advantage for current US-based students.
+- H1B registrations for FY 2027 projected to drop to 200k-250k (from 343,981 in
+  FY 2026) due to new beneficiary rules.
+
+TOP H1B SPONSORING INDUSTRIES (2026):
+- Big Tech (Amazon, Google, Microsoft): 130,000+ approvals annually
+- Finance (JPMorgan, Goldman Sachs): focused on quant and AI roles
+- Healthcare/Cap-exempt institutions (university hospitals): year-round
+  sponsorship, no lottery
+- AI / Machine Learning / Semiconductors: highest demand
+
+STRATEGY FOR INTERNATIONAL NEW GRADS:
+1. Target E-Verified companies (required for STEM OPT extension)
+2. Apply during OPT window — gives you 12-36 months of work authorization
+3. Don't lie about visa status — they will ask
+4. Mid-sized cities (Austin, Raleigh, etc.) may offer lottery advantages because
+   Level II salary there can meet Level IV wage criteria
+5. Cap-exempt employers (universities, nonprofits) can sponsor any time
+6. Some companies (Datadog, Bloomberg, Microsoft, MongoDB) sponsor for new grads
+   in NYC specifically
+
+WHAT NOT TO ASSUME:
+- "Tier-1 school" matters in US for FAANG; matters less for mid-tier tech
+- Indian tech recruiters care less about coursework, more about projects
+- US recruiters often filter by "currently authorized to work without
+  sponsorship" — many international candidates get auto-rejected at this stage
+- Saying "I will need sponsorship in the future" can disqualify you even if you
+  currently have OPT
+
+REFERRAL CULTURE:
+Referrals matter more for international candidates because they bypass the first
+ATS filter that often auto-rejects non-citizens. Build referrals via:
+- Indian alumni networks at target companies
+- IIT/NIT alumni groups on LinkedIn
+- WhatsApp groups for specific company employees
+- Direct cold messages to current employees with same college background

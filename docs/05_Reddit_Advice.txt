@@ -1,0 +1,80 @@
+# Source: https://www.reddit.com/r/cscareers/comments/1qgm9dv/job_search_advice_i_would_give_to_2026_grads/
+# Topic: Practical job search advice for 2026 CS grads — what worked
+
+CORE FRAMEWORK — what actually works in 2026:
+
+1. APPLY EARLY, APPLY OFTEN
+Many companies close roles fast. Start in August/September for full-time roles
+starting the following summer. By spring, most pipelines have closed.
+
+2. QUALITY OVER QUANTITY
+Ten quality applications beat one hundred random ones. Hiring managers can tell
+the difference between "I copy-pasted my resume to 500 companies" and "I researched
+your team and tailored my bullets to your stack."
+
+3. REFERRALS TRIPLE YOUR CHANCES
+Leverage alumni, student clubs, Discord groups, GitHub contributors. A referral
+moves your resume from the bottom of the ATS stack to the recruiter's inbox.
+Average response rate without referral: 2-5%. With referral: 25-40%.
+
+4. NETWORKING > MASS APPLYING
+Cornell A&S Career Development found that "students who mass apply to hundreds
+of positions without tailoring their resume and without utilizing the Cornell
+network have much less success."
+
+70-80% of people find jobs and internships through their connections (CMU Career
+Services data).
+
+5. RESUME RULES — KEEP IT TIGHT
+- One page only
+- PDF format unless company specifies otherwise
+- No headshots, no fancy fonts, no graphics
+- Use action verbs: built, led, shipped, launched, drove (not "worked on")
+- Quantify everything ("reduced X by 40%", not "helped improve X")
+- Use present tense for current roles, past tense for past roles
+- ATS-friendly (clean format, standard sections)
+
+6. WHERE TO ACTUALLY APPLY
+Best new-grad job boards per Reddit consensus:
+- Handshake (university-verified, beats LinkedIn for new grads)
+- Simplify Jobs New Grad GitHub list
+- Hiring Cafe (good filters)
+- LinkedIn (best for networking, not for applying)
+- Dice (tech-specialized, low noise)
+- Wellfound (startups, equity details)
+- Direct company career pages (often best route)
+
+Avoid: saturated boards where every posting shows "200+ applicants" within 24h.
+
+7. COLD OUTREACH WORKS — DO IT RIGHT
+- Find recruiters and hiring managers on LinkedIn for the specific role
+- Short personalized note (NOT generic "I'm interested in opportunities")
+- Reference specific work the person did or the team is doing
+- Ask for a 15-min coffee chat, not a job
+- Follow up once after 5-7 days, then move on
+
+8. SKILLS + NETWORK = THE FORMULA
+Skills alone won't get you noticed in a saturated market.
+Network alone won't help if you can't pass technical screens.
+You need both. Build skills via projects you can demo; build network via coffee
+chats, alumni outreach, and consistent LinkedIn presence (commenting, not posting).
+
+9. DON'T AIM FOR FAANG ON FIRST TRY
+If you see DSA / Leetcode / System Design required for entry roles everywhere,
+maybe FAANG isn't realistic out of the gate. Many people landed first jobs after
+2 months of applying to mid-sized companies with conversational interviews and
+basic live coding (non-leetcode). Get experience, then jump.
+
+10. BACKDOOR ROUTES
+- Systems admin / support → automation → SWE pivot (common HFT/hedge fund route)
+- Y Combinator startups looking for cheap part-time help → references → full-time
+- Internal pivots within larger non-tech companies
+- Government / city / state roles (slow to respond but real openings)
+
+WHAT DOES NOT WORK:
+- Mass applying with the same resume
+- Relying solely on LinkedIn Easy Apply
+- Waiting until graduation to start
+- Skipping referrals because "I don't want to bother people"
+- Letting your LinkedIn profile go stale
+- Failing to track applications (use a spreadsheet, Notion, or Simplify)

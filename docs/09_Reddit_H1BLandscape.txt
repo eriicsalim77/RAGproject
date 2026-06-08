@@ -1,0 +1,91 @@
+# Source: https://scale.jobs/blog/industries-sponsoring-h1b-2026 + https://www.flashfirejobs.com/blog/companies-that-sponsor-h1b-visas
+# Topic: H1B sponsorship landscape 2026 — what international new grads need to know
+
+CRITICAL 2026 H1B CHANGES (regulatory):
+
+1. WAGE-WEIGHTED LOTTERY (effective Feb 27, 2026)
+USCIS now prioritizes H1B applications by salary level:
+- Level IV (highest experience tier): ~61% selection rate
+- Level III: ~40% selection rate
+- Level II: ~25% selection rate
+- Level I (entry-level): ~15% selection rate
+
+Entry-level new grads are now the LEAST likely to win the lottery, even if they
+have a sponsoring employer. This is a structural shift away from the old random
+lottery system.
+
+2. $100,000 SUPPLEMENTAL FEE FOR OVERSEAS HIRES (effective Sept 21, 2025)
+Companies now pay an extra $100k to bring a candidate from overseas. Result:
+employers strongly prefer F-1 OPT candidates already in the US, since they are
+EXEMPT from the fee through "change of status" petitions.
+
+This is a major advantage for international students already studying in the US.
+If you are on F-1 OPT, you are now significantly more attractive than the same
+candidate located abroad.
+
+3. FY 2027 REGISTRATION DROP
+H1B registrations are projected to drop to 200,000-250,000 (down from 343,981 in
+FY 2026) due to new beneficiary rules. Fewer applicants = better odds.
+
+TOP H1B SPONSORING COMPANIES (2026):
+
+BIG TECH (130,000+ approvals annually):
+- Amazon, Google, Microsoft — leaders in tech sponsorship
+- Meta, Apple — slower but consistent
+- NVIDIA — heavy AI/ML focus
+- Tesla, Oracle — mid-tier sponsors
+
+FINANCE / FINTECH (heavy quant + AI tech sponsorship):
+- JPMorgan Chase, Goldman Sachs (NYC, large new-grad programs)
+- Citadel, Two Sigma, Jane Street, Hudson River Trading
+- Bloomberg (NYC — also hires new grads aggressively)
+- Capital One (Tysons + NYC offices)
+
+CONSULTING (consistent sponsors):
+- Deloitte, EY, KPMG, PwC (Big 4)
+- McKinsey, BCG, Bain (top 3 consulting, lower volume but prestigious)
+- Accenture (highest volume, lower selectivity)
+
+CONSUMER TECH (NYC-strong):
+- Datadog, MongoDB, Squarespace, Etsy
+- Stripe, Plaid, Ramp (smaller programs, harder to break in)
+- Spotify, Peloton
+
+HEALTHCARE / CAP-EXEMPT (most overlooked path):
+University hospitals, research institutions, and certain nonprofits are EXEMPT
+from the H1B lottery cap entirely. They can sponsor year-round with no lottery.
+- NYU Langone, Mount Sinai (NYC)
+- Cleveland Clinic, Mayo Clinic
+- Government research labs
+
+E-VERIFY REQUIREMENT FOR STEM OPT
+To extend OPT for the additional 24 months (STEM OPT extension), your employer
+MUST be enrolled in E-Verify. NOT ALL companies are E-Verified — check before
+accepting offers.
+
+Common E-Verified employers in NYC tech:
+- All FAANG companies
+- Bloomberg, Datadog, MongoDB, Stripe, Plaid, Ramp
+- Goldman Sachs, JPMorgan, Morgan Stanley
+- Most major consulting firms
+
+NON-E-Verified (cannot extend STEM OPT):
+- Many smaller startups
+- Some traditional finance firms
+- Various consulting boutiques
+
+GEOGRAPHIC ARBITRAGE FOR INTERNATIONAL CANDIDATES:
+Mid-sized cities (Austin, Raleigh, Pittsburgh, Atlanta) often pay Level II
+salaries that match Level IV wage criteria from the federal wage database.
+This means an "entry-level" salary in those cities can score the higher H1B
+lottery odds. Worth considering as a fallback if NYC search drags on.
+
+PRACTICAL ACTION ITEMS FOR INTERNATIONAL NEW GRADS:
+1. Confirm E-Verify status of every company before accepting offers
+2. Use OPT window aggressively (12-36 months of work authorization)
+3. Target cap-exempt employers as backup (universities, nonprofits, research labs)
+4. Be honest about visa status upfront — recruiters appreciate it
+5. Negotiate for sign-on bonus instead of salary in some cases (immediate cash)
+6. Get manager / company commitment to file H1B in first year (in writing)
+7. Plan for potential job change after H1B approval — many F-1s feel "trapped"
+   at their first sponsor but the visa transfers more easily than people think

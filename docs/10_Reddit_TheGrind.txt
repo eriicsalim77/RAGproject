@@ -1,0 +1,81 @@
+# Source: https://www.reddit.com/r/NYCjobs/comments/1q4me55/the_nyc_grind_is_breaking_me_father_of_3/
+# Topic: NYC cost-of-living reality check — what salary actually means for life in NYC
+
+CONTEXT:
+A father of 3 in NYC describing the financial grind of supporting a family in the
+city on what would be considered a "good" salary in most US markets. Highly
+relevant for new grads evaluating NYC tech offers — the headline TC numbers
+don't tell the full story.
+
+KEY TAKEAWAYS FOR NEW GRADS:
+
+THE NYC SALARY REALITY:
+- A $150k base salary in NYC has roughly the same purchasing power as $85-95k
+  in most other US tech hubs (Austin, Raleigh, Pittsburgh)
+- After NYC + NY State + federal taxes, $150k → ~$95k take-home
+- Manhattan studio rent: $3,500-4,500/mo
+- Brooklyn 1BR: $2,800-3,800/mo (good neighborhoods)
+- Queens/Outer boroughs 1BR: $2,000-2,800/mo
+- Health insurance through employer typically covers most costs, but out-of-
+  pocket NYC healthcare is brutal
+
+WHAT NEW GRADS UNDERESTIMATE:
+1. Subway pass: $132/month
+2. Groceries: 30-40% more than national average
+3. Eating out: $15-25 lunch is normal, $25-40 dinner casual
+4. Apartment broker fees: typically 12-15% of annual rent (one-time)
+5. Security deposit + first/last month: $8,000-12,000 upfront for most rentals
+6. Utilities (Con Ed + internet): $150-250/month
+
+WHY THIS MATTERS FOR JOB OFFER EVALUATION:
+A $130k offer in NYC and a $100k offer in Austin are roughly equivalent in
+lifestyle terms. Many new grads chase NYC for prestige and end up financially
+worse off than friends who took mid-market roles elsewhere.
+
+ROOMMATES ARE THE NORM:
+Most new grads in NYC have at least one roommate for the first 2-3 years.
+Solo 1BR living is rare under $150k salary. This is normal and not a sign of
+financial failure — it's the structural reality of the NYC market.
+
+WHEN NYC ACTUALLY WORKS FINANCIALLY:
+- Bloomberg new grad: $135k base + $15k bonus + $10k relocation = ~$160k TC
+  → manageable with 1 roommate, can save modestly
+- FAANG NYC new grad: $124k base + $150k equity (4 years) + $50k signing
+  → ~$210k year-1 TC, comfortable but still requires budgeting
+- Mid-tier startup: $110-130k TC → tight, requires roommates and discipline
+- Consulting (Deloitte/PwC entry-level): $85-95k → financially difficult in NYC
+
+THE COMPENSATING FACTORS:
+Despite the cost, NYC offers things that pure compensation math misses:
+- Highest density of tech meetups in the US (career acceleration)
+- Career optionality: easy to switch industries (tech → finance → consulting)
+- Subway means no car needed (saves $5-8k/year vs car-dependent cities)
+- Cultural/social access that other cities can't match
+- International airport access (3 major airports)
+- Strong alumni networks from NYC schools (CUNY, NYU, Columbia, Cornell Tech)
+
+ADVICE FROM EXPERIENCED NYC PROFESSIONALS:
+1. Don't move until you have a signed offer
+2. Plan for 2-3 months of expenses in savings before relocating
+3. Negotiate for relocation bonus (most NYC employers will pay $5-15k)
+4. Take temporary housing for first 30-60 days while apartment hunting
+5. Avoid Manhattan for first apartment — commute from Brooklyn/Queens
+6. Get a roommate, even if you can technically afford solo
+7. Don't lifestyle-creep in year 1 — bank the bonuses, then upgrade
+
+OVERLOOKED ALTERNATIVES TO MANHATTAN:
+- Jersey City: PATH train = 10 min to WTC, rent 30% cheaper
+- Hoboken: similar PATH access, slightly more expensive than JC
+- Long Island City (Queens): direct subway to Midtown, 25% cheaper
+- Williamsburg/Bushwick (Brooklyn): tech-heavy social scene, mid-range rent
+- Astoria (Queens): cheap, safe, growing tech presence
+
+BURNOUT WARNING:
+"The grind" the OP references isn't just financial. NYC tech requires:
+- 9-10 hour workdays + commute time (often 60-90 min round-trip)
+- High social/network expectations (constant events, dinners, drinks)
+- Weekend work culture at many startups
+- Pressure to perform at 200% to justify the salary premium
+
+Many new grads burn out in 18-24 months. Plan for sustainability, not just
+career velocity. The grind is real — go in with eyes open.

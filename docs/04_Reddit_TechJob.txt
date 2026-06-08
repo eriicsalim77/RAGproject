@@ -1,0 +1,45 @@
+# Source: https://www.reddit.com/r/cscareerquestions/comments/1snhmje/junior_tech_postings_down_67_and_43_of_class_of/
+# Topic: 2026 entry-level tech market collapse — data on junior developer shortage
+
+KEY DATA POINTS:
+Entry-level software engineering postings in the United States dropped 67% between
+2023 and 2024 (Stanford Digital Economy Lab, using ADP payroll data covering millions
+of workers). This is not a survey or projection — it is direct measurement.
+
+The share of tech jobs requiring three years of experience or less fell from 43% in
+2018 to 28% in 2024 (IEEE Spectrum).
+
+Google and Meta are hiring roughly 50% fewer new graduates compared to 2021.
+Salesforce halted junior hiring entirely for 2025.
+
+In the UK, entry-level technology roles dropped 46% last year, with projections
+hitting 53% by the end of 2026.
+
+Computer science graduates now face a 6.1% unemployment rate. Computer engineers
+are at 7.5% — one of the highest rates across all majors.
+
+DISCUSSION HIGHLIGHTS:
+The 1.6% increase in Class of 2026 hiring that employers project is noise — it
+does not offset a 67% collapse and does not rebuild the pipeline of CS graduates
+who are credentialed but unemployable because nobody will give them their first
+production commit.
+
+INDUSTRY DYNAMICS:
+Companies are prioritizing AI and profits, cutting SWE jobs, reducing and
+restricting entry-level / junior levels to only fresh grads and mid-level SWE who
+have been laid off. Hope for grads (1-2+ years out) who have been laid off, piped,
+or had offers rescinded is limited. Pursuing a master's is a common defensive
+strategy, but does not necessarily solve the underlying market problem.
+
+COMMON CRITIQUES OF "JUST DO INTERNSHIPS" ADVICE:
+The work still needs doing — the humans who do it just get paid less and receive
+no training budget. AI cannot replace the kind of judgment that comes from years
+of working through edge cases that no training data covers. But the pipeline that
+turns students into senior engineers is collapsing in real time, which creates a
+talent gap five years out.
+
+PRACTICAL TAKEAWAY:
+The industry is building its future on a workforce it is actively refusing to
+create. New grads in 2026 must compete against laid-off mid-level engineers for
+the few remaining junior roles, against AI tools that handle simpler tasks, and
+against the structural shift away from training fresh talent.
